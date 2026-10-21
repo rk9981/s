@@ -1,0 +1,6 @@
+{
+  "name": "MULTY TOOLS - Creative & Everyday File Toolkit",
+  "description": "All-in-one colourful online toolkit featuring Image to PDF, PDF to Word/Excel, Video Media Downloader, Image Compressor, QR Studio, Audio Recorder, and more.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
